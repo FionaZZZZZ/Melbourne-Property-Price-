@@ -7,3 +7,5 @@ https://www.kaggle.com/dansbecker/melbourne-housing-snapshot/activity
 4. build XGBoost model
 5. parameters optimization using cross validation and grid search
 6. build final XGBoost model with optimised paramters and evaluation
+
+total run time: approx 2h.
